@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\data\\sumpermarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:data\\sumpermarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T19:24:57.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:35:59.177Z",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:41:10.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:33:27.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:32:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:35:59.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Categories\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:16:47.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T13:16:47.282Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:13:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SumpermarketContext.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Data\\SumpermarketContext.cs",
+              "RelativeDocumentMoniker": "Data\\SumpermarketContext.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Data\\SumpermarketContext.cs",
+              "RelativeToolTip": "Data\\SumpermarketContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:28:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T16:24:19.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -72,21 +178,7 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:14:15.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:13:54.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T13:14:15.131Z"
             }
           ]
         },
