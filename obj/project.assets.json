@@ -2701,19 +2701,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aio5\\.nuget\\packages\\": {}
+    "C:\\Users\\aprendiz_ti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aio5\\Downloads\\SupermarketWEB\\SupermarketWEB\\SupermarketWEB.csproj",
+      "projectUniqueName": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
       "projectName": "SupermarketWEB",
-      "projectPath": "C:\\Users\\Aio5\\Downloads\\SupermarketWEB\\SupermarketWEB\\SupermarketWEB.csproj",
-      "packagesPath": "C:\\Users\\Aio5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aio5\\Downloads\\SupermarketWEB\\SupermarketWEB\\obj\\",
+      "projectPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+      "packagesPath": "C:\\Users\\aprendiz_ti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aio5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aprendiz_ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

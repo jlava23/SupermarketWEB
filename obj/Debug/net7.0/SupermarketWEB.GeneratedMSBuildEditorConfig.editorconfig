@@ -9,39 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SupermarketWEB
 build_property.RootNamespace = SupermarketWEB
-build_property.ProjectDir = C:\Users\Aio5\Downloads\SupermarketWEB\SupermarketWEB\
+build_property.ProjectDir = C:\Users\aprendiz_ti\Downloads\SupermarketWEB - copia\SupermarketWEB - copia\SupermarketWEB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aio5\Downloads\SupermarketWEB\SupermarketWEB
+build_property.MSBuildProjectDirectory = C:\Users\aprendiz_ti\Downloads\SupermarketWEB - copia\SupermarketWEB - copia\SupermarketWEB
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/Error.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/Index.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/Privacy.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/_ViewImports.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/_ViewStart.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aio5/Downloads/SupermarketWEB/SupermarketWEB/Pages/Shared/_Layout.cshtml]
+[C:/Users/aprendiz_ti/Downloads/SupermarketWEB - copia/SupermarketWEB - copia/SupermarketWEB/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4zkxjzih9o
