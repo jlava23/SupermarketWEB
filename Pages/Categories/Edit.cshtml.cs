@@ -6,55 +6,66 @@ using SupermarketWEB.Models;
 
 namespace SupermarketWEB.Pages.Categories
 {
-	public class DeleteModel : PageModel
+	public class EditModel : PageModel
 	{
 		private readonly SupermarketContext _context;
-		public DeleteModel(SupermarketContext context)
+
+		public EditModel(SupermarketContext context)
 		{
 			_context = context;
 		}
 
 		[BindProperty]
-		public Category Category { get; set; }
+		public Category Category { get; set; } = default!;
 
 		public async Task<IActionResult> OnGetAsync(int? id)
 		{
-			if (id == null)
+			if (id == null || _context.Categories == null)
 			{
 				return NotFound();
 			}
 
 			var category = await _context.Categories.FirstOrDefaultAsync(m => m.Id == id);
-
-
 			if (category == null)
 			{
 				return NotFound();
 			}
-
+			Category = category;
 			return Page();
 		}
-		public async Task<IActionResult> OnPostAsync(int? id)
+
+		public async Task<IActionResult> OnPostAsync()
 		{
-			if (id == null)
+			if (!ModelState.IsValid)
 			{
-				return NotFound();
+				return Page();
 			}
 
-			var category = await _context.Categories.FindAsync(id);
+			_context.Attach(Category).State = EntityState.Modified;
 
-			if (category != null)
+			try
 			{
-				Category = category;
-				_context.Categories.Remove(Category);
 				await _context.SaveChangesAsync();
-
+			}
+			catch (DbUpdateConcurrencyException)
+			{
+				if (!CategoryExists(Category.Id))
+				{
+					return NotFound();
+				}
+				else
+				{
+					throw;
+				}
 			}
 
 			return RedirectToPage("./Index");
 		}
+
+		private bool CategoryExists(int id)
+		{
+			return (_context.Categories?.Any(e => e.Id == id)).GetValueOrDefault();
+		}
+
 	}
 }
-
-
-
