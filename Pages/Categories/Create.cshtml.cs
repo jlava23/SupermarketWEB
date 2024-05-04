@@ -8,8 +8,8 @@ namespace SupermarketWEB.Pages.Categories
 {
     public class CreateModel : PageModel
     {
-        private readonly SumpermarketContext _Context;
-        public CreateModel(SumpermarketContext context)
+        private readonly SupermarketContext _Context;
+        public CreateModel(SupermarketContext context)
         {
             _Context = context;
         }
