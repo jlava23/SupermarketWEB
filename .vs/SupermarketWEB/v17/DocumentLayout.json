@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D59272F-02FC-44B0-8ABC-86420746FACB}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -98,8 +98,7 @@
               "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAUwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:16:47.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T13:16:47.282Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAuwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T19:49:47.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T19:49:47.72Z"
             },
             {
               "$type": "Document",
