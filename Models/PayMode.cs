@@ -1,7 +1,4 @@
-﻿
-using SupermarketEF.Models;
-
-namespace SupermarketWEB.Models
+﻿namespace SupermarketWEB.Models
 {
     public class PayMode
     {

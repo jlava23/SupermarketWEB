@@ -1,20 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SupermarketEF.Models
+namespace SupermarketWEB.Models
 {
     public class Invoice
     {
-        public int Id { get; set; }
+        public int Id { get; set; } //Será la llave primaria
         public int Number { get; set; }
         public int CustomerId { get; set; }
         public string Date { get; set; }
-
-        public int Pay_Mode { get; set; }
-        
+        public int PaymodeId { get; set; }//Será la llave foranea
+        public PayMode? PayModes { get; set; } // Propiedad de navegación 
     }
 }

@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj": {}
+    "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj": {
+    "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+        "projectUniqueName": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
         "projectName": "SupermarketWEB",
-        "projectPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+        "projectPath": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
         "packagesPath": "C:\\Users\\aprendiz_ti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\obj\\",
+        "outputPath": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprendiz_ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,16 +42,16 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

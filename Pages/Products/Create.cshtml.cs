@@ -2,42 +2,41 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using SupermarketWEB.Data;
 using SupermarketWEB.Models;
+
 namespace SupermarketWEB.Pages.Products
 {
-	public class CreateModel : PageModel
-	{
-		private readonly SupermarketContext _context;
-		public CreateModel(SupermarketContext context)
-		{
-			_context = context;
-		}
-		public IActionResult OnGet()
-		{
-			return Page();
-		}
+    public class CreateModel : PageModel
+    {
+        private readonly SupermarketContext _context;
+        public CreateModel(SupermarketContext context)
+        {
+            _context = context;
+        }
 
-		[BindProperty]
-		public Product Product { get; set; } = default!;
+        public IActionResult OnGet()
+        {
+            return Page();
+        }
 
-		public async Task<IActionResult> OnPostAsync()
-		{
-			if (!ModelState.IsValid || _context.Products == null || Product == null)
-			{
-				return Page();
-			}
+        [BindProperty]
+        public Product Product { get; set; } = default!;
 
-			_context.Products.Add(Product);
+        public async Task<IActionResult> OnPostAsync()
+        {
+            if (!ModelState.IsValid || _context.Products == null || Product == null)
+            {
+                return Page();
+            }
 
-			await _context.SaveChangesAsync();
+            _context.Products.Add(Product);
 
-			return RedirectToPage("./Index");
-		}
+            await _context.SaveChangesAsync();
+
+            return RedirectToPage("./Index");
+        }
+
+       
 
 
-
-
-	}
+    }
 }
-
-
-

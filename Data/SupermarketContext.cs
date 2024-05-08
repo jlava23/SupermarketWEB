@@ -3,16 +3,15 @@ using SupermarketWEB.Models;
 
 namespace SupermarketWEB.Data
 {
-    public class SupermarketContext : DbContext
+    public class SupermarketContext: DbContext
     {
-		internal object PayMode;
-
-		public SupermarketContext(DbContextOptions options) : base(options)
+        public SupermarketContext(DbContextOptions options) : base(options) 
         {
         }
-        public DbSet<Product> Products {  get; set; }
-        public DbSet<Category>Categories { get; set; }
-		public object PayModes { get; internal set; }
-        public object Invoices { get; internal set; }
+
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<PayMode> PayModes { get; set; }
+        public DbSet<Invoice> Invoices { get; set; }
     }
 }

@@ -10,7 +10,7 @@ namespace SupermarketWEB.Pages.Categories
     {
         private readonly SupermarketContext _context;
         public IndexModel(SupermarketContext context)
-        {
+        { 
             _context = context;
         }
         public IList<Category> Categories { get; set; }
@@ -18,12 +18,9 @@ namespace SupermarketWEB.Pages.Categories
         {
             //if (_context.Categories != null)
             //{
-            Categories= await _context.Categories.ToListAsync();
+                Categories = await _context.Categories.ToListAsync();
             //}
         }
-
+        
     }
 }
-
-
-
