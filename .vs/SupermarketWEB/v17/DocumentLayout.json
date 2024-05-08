@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\paymodes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,6 +111,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Invoices\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Invoices\\Edit.cshtml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:46:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Invoices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Invoices\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T15:46:14.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Delete.cshtml.cs",
@@ -115,20 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Delete.cshtml",
               "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Invoices\\Delete.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T15:42:23.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Create.cshtml.cs",
@@ -141,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Create.cshtml",
@@ -154,20 +188,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Invoices\\Index.cshtml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowBoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T15:36:28.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Invoices\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Invoices\\Index.cshtml",
@@ -180,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Edit.cshtml.cs",
@@ -193,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Edit.cshtml",
@@ -206,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Delete.cshtml.cs",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Delete.cshtml",
@@ -232,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Create.cshtml.cs",
@@ -245,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Create.cshtml",
@@ -258,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Index.cshtml.cs",
@@ -271,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\PayModes\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\PayModes\\Index.cshtml",
@@ -284,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml.cs",
@@ -297,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml",
@@ -310,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml",
@@ -323,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml.cs",
@@ -336,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml",
@@ -349,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
@@ -362,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
