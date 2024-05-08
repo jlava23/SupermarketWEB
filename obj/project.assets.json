@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+      "projectUniqueName": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
       "projectName": "SupermarketWEB",
-      "projectPath": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+      "projectPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
       "packagesPath": "C:\\Users\\aprendiz_ti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\obj\\",
+      "outputPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprendiz_ti\\AppData\\Roaming\\NuGet\\NuGet.Config",

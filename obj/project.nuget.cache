@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjmBbUKylBlfYhCqFGT+qSLkPU71hffn6mqHHt6LwKrbjQu6Vni0fWI4QyosYoamDIPHgJGtDmPpwLHazHthHw==",
+  "dgSpecHash": "/ZVPpKMChD/mGbjeGhWRw+bV6Psin7IGQnteYGQCJOexbkUSR32x/hqErGHKFsWZ/wprgTa//ChQJpQuaUajUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aprendiz_ti\\OneDrive - PROMEDICO\\Escritorio\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
+  "projectFilePath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\SupermarketWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aprendiz_ti\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\aprendiz_ti\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
