@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\aprendiz_ti\\downloads\\supermarketweb - copia\\supermarketweb - copia\\supermarketweb\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:18:36.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T15:18:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T15:18:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml.cs",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml",
@@ -60,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
@@ -73,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\aprendiz_ti\\Downloads\\SupermarketWEB - copia\\SupermarketWEB - copia\\SupermarketWEB\\Pages\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
